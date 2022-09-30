@@ -1,0 +1,9 @@
+{
+  "name": "catherine",
+  "version": "1.0.0",
+  "description": "Portfolio website for artist Catherine Stevenson",
+  "main": "index.js",
+  "repository": "git@github.com:ADover18/catherine.git",
+  "author": "<alexandradover@hotmail.com>",
+  "license": "MIT"
+}
